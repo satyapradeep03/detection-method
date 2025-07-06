@@ -1,0 +1,24 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+opencv-python-headless
+torch
+torchvision
+tensorflow
+# facexray @ git+https://github.com/ruiliu-ai/FaceXRay.git
+efficientnet-pytorch
+# f3net @ git+https://github.com/yuezunli/F3Net.git
+# lipforensics @ git+https://github.com/DariusAf/lipforensics.git
+requests
+pillow
+scikit-learn
+matplotlib
+plotly
+psutil
+streamlit
+pytest
+pytest-asyncio
+httpx
+loguru
+python-dotenv 
